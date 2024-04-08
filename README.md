@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Roko 👋
 
 ## About Me
 I'm a passionate full-stack developer, specializing in creating dynamic and user-friendly web applications. I'm constantly learning and evolving alongside the web development industry.
