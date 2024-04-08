@@ -8,7 +8,7 @@ I'm a passionate full-stack developer, specializing in creating dynamic and user
 - 📫 How to reach me: [Your email](mailto:roko.perusko2001@gmail.com)
 
 ## My GitHub Stats
-![YourName's github stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![RokoPerusko's github stats](https://github-readme-stats.vercel.app/api?username=RokoPerusko&show_icons=true&theme=radical)
 
 ## Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
